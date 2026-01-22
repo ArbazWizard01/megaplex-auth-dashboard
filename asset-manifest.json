@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArbazWizard01/megaplex-auth-dashboard/static/css/main.2d65e6ed.css",
+    "main.js": "/ArbazWizard01/megaplex-auth-dashboard/static/js/main.98e4460f.js",
+    "static/js/453.37fe6e7f.chunk.js": "/ArbazWizard01/megaplex-auth-dashboard/static/js/453.37fe6e7f.chunk.js",
+    "index.html": "/ArbazWizard01/megaplex-auth-dashboard/index.html",
+    "main.2d65e6ed.css.map": "/ArbazWizard01/megaplex-auth-dashboard/static/css/main.2d65e6ed.css.map",
+    "main.98e4460f.js.map": "/ArbazWizard01/megaplex-auth-dashboard/static/js/main.98e4460f.js.map",
+    "453.37fe6e7f.chunk.js.map": "/ArbazWizard01/megaplex-auth-dashboard/static/js/453.37fe6e7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d65e6ed.css",
+    "static/js/main.98e4460f.js"
+  ]
+}
